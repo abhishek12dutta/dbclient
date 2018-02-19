@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<connections>
+<connection id="monalisaDB">
+<connection-url>url</connection-url>
+<host>hostname</host>
+<username>username</username>
+<password>password</password>
+</connection>
+<connection id="abhiDB">
+<connection-url>url</connection-url>
+<host>hostname</host>
+<username>username</username>
+<password>password</password>
+</connection>
+</connections>
